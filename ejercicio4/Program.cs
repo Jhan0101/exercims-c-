@@ -1,6 +1,5 @@
 ﻿static class LogLine
 {
-    // Método Main temporal para que compile y te permita probar
     public static void Main()
     {
         Console.WriteLine(Message("[ERROR]: Operacion invalida"));
