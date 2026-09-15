@@ -1,0 +1,15 @@
+C:\Users\Jhan\Desktop\Ejercicios C#\jedlikstoys\obj\Debug\net10.0\jedlikstoys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhan\Desktop\Ejercicios C#\jedlikstoys\obj\Debug\net10.0\jedlikstoys.AssemblyInfoInputs.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\jedlikstoys\obj\Debug\net10.0\jedlikstoys.AssemblyInfo.cs
+C:\Users\Jhan\Desktop\Ejercicios C#\jedlikstoys\obj\Debug\net10.0\jedlikstoys.csproj.CoreCompileInputs.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\jedlikstoys\obj\Debug\net10.0\jedlikstoys.sourcelink.json
+C:\Users\Jhan\Desktop\Ejercicios C#\jedlikstoys\bin\Debug\net10.0\jedlikstoys.exe
+C:\Users\Jhan\Desktop\Ejercicios C#\jedlikstoys\bin\Debug\net10.0\jedlikstoys.deps.json
+C:\Users\Jhan\Desktop\Ejercicios C#\jedlikstoys\bin\Debug\net10.0\jedlikstoys.runtimeconfig.json
+C:\Users\Jhan\Desktop\Ejercicios C#\jedlikstoys\bin\Debug\net10.0\jedlikstoys.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\jedlikstoys\bin\Debug\net10.0\jedlikstoys.pdb
+C:\Users\Jhan\Desktop\Ejercicios C#\jedlikstoys\obj\Debug\net10.0\jedlikstoys.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\jedlikstoys\obj\Debug\net10.0\refint\jedlikstoys.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\jedlikstoys\obj\Debug\net10.0\jedlikstoys.pdb
+C:\Users\Jhan\Desktop\Ejercicios C#\jedlikstoys\obj\Debug\net10.0\jedlikstoys.genruntimeconfig.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\jedlikstoys\obj\Debug\net10.0\ref\jedlikstoys.dll
