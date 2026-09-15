@@ -6,13 +6,13 @@ class RemoteControlCar
         var carro = RemoteControlCar.Buy();
 
         Console.WriteLine($"Distancia conducida: {carro.DistanceDisplay()}");
-        Console.WriteLine($"Porcentaje de la bateria{carro.BatteryDisplay()}");
+        Console.WriteLine($"Porcentaje de la bateria: {carro.BatteryDisplay()}");
 
         carro.Drive();
         carro.Drive();
 
         Console.WriteLine($"Distancia conducida: {carro.DistanceDisplay()}");
-        Console.WriteLine($"Porcentaje de la bateria{carro.BatteryDisplay()}");
+        Console.WriteLine($"Porcentaje de la bateria: {carro.BatteryDisplay()}");
 
     }
     private int _distanciaConducida = 0;
