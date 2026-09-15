@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Jhan\\Desktop\\Ejercicios C#\\ejercicio3\\ejercicio3.csproj": {}
+    "C:\\Users\\Jhan\\Desktop\\Ejercicios C#\\ejercicio3\\ejercicio3.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Jhan\\Desktop\\Ejercicios C#\\ejercicio3\\ejercicio3.csproj": {
+    "C:\\Users\\Jhan\\Desktop\\Ejercicios C#\\ejercicio3\\ejercicio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Jhan\\Desktop\\Ejercicios C#\\ejercicio3\\ejercicio3.csproj",
+        "projectUniqueName": "C:\\Users\\Jhan\\Desktop\\Ejercicios C#\\ejercicio3\\ejercicio3.csproj",
         "projectName": "ejercicio3",
-        "projectPath": "c:\\Users\\Jhan\\Desktop\\Ejercicios C#\\ejercicio3\\ejercicio3.csproj",
+        "projectPath": "C:\\Users\\Jhan\\Desktop\\Ejercicios C#\\ejercicio3\\ejercicio3.csproj",
         "packagesPath": "C:\\Users\\Jhan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Jhan\\Desktop\\Ejercicios C#\\ejercicio3\\obj\\",
+        "outputPath": "C:\\Users\\Jhan\\Desktop\\Ejercicios C#\\ejercicio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhan\\AppData\\Roaming\\NuGet\\NuGet.Config",

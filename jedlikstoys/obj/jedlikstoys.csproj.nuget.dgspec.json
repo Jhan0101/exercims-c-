@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jhan\\Desktop\\Ejercicios C#\\jedlikstoys\\jedlikstoys.csproj": {}
+    "c:\\Users\\Jhan\\Desktop\\Ejercicios C#\\jedlikstoys\\jedlikstoys.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jhan\\Desktop\\Ejercicios C#\\jedlikstoys\\jedlikstoys.csproj": {
+    "c:\\Users\\Jhan\\Desktop\\Ejercicios C#\\jedlikstoys\\jedlikstoys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhan\\Desktop\\Ejercicios C#\\jedlikstoys\\jedlikstoys.csproj",
+        "projectUniqueName": "c:\\Users\\Jhan\\Desktop\\Ejercicios C#\\jedlikstoys\\jedlikstoys.csproj",
         "projectName": "jedlikstoys",
-        "projectPath": "C:\\Users\\Jhan\\Desktop\\Ejercicios C#\\jedlikstoys\\jedlikstoys.csproj",
+        "projectPath": "c:\\Users\\Jhan\\Desktop\\Ejercicios C#\\jedlikstoys\\jedlikstoys.csproj",
         "packagesPath": "C:\\Users\\Jhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhan\\Desktop\\Ejercicios C#\\jedlikstoys\\obj\\",
+        "outputPath": "c:\\Users\\Jhan\\Desktop\\Ejercicios C#\\jedlikstoys\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
