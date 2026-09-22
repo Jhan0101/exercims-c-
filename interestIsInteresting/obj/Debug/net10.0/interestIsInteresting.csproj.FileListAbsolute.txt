@@ -1,0 +1,15 @@
+C:\Users\Jhan\Desktop\Ejercicios C#\InterestIsInteresting\bin\Debug\net10.0\interestIsInteresting.exe
+C:\Users\Jhan\Desktop\Ejercicios C#\InterestIsInteresting\bin\Debug\net10.0\interestIsInteresting.deps.json
+C:\Users\Jhan\Desktop\Ejercicios C#\InterestIsInteresting\bin\Debug\net10.0\interestIsInteresting.runtimeconfig.json
+C:\Users\Jhan\Desktop\Ejercicios C#\InterestIsInteresting\bin\Debug\net10.0\interestIsInteresting.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\InterestIsInteresting\bin\Debug\net10.0\interestIsInteresting.pdb
+C:\Users\Jhan\Desktop\Ejercicios C#\InterestIsInteresting\obj\Debug\net10.0\interestIsInteresting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhan\Desktop\Ejercicios C#\InterestIsInteresting\obj\Debug\net10.0\interestIsInteresting.AssemblyInfoInputs.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\InterestIsInteresting\obj\Debug\net10.0\interestIsInteresting.AssemblyInfo.cs
+C:\Users\Jhan\Desktop\Ejercicios C#\InterestIsInteresting\obj\Debug\net10.0\interestIsInteresting.csproj.CoreCompileInputs.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\InterestIsInteresting\obj\Debug\net10.0\interestIsInteresting.sourcelink.json
+C:\Users\Jhan\Desktop\Ejercicios C#\InterestIsInteresting\obj\Debug\net10.0\interestIsInteresting.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\InterestIsInteresting\obj\Debug\net10.0\refint\interestIsInteresting.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\InterestIsInteresting\obj\Debug\net10.0\interestIsInteresting.pdb
+C:\Users\Jhan\Desktop\Ejercicios C#\InterestIsInteresting\obj\Debug\net10.0\interestIsInteresting.genruntimeconfig.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\InterestIsInteresting\obj\Debug\net10.0\ref\interestIsInteresting.dll
