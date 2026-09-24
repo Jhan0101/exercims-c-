@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhan\\Desktop\\Ejercicios C#\\ejercicio9\\ejercicio9.csproj",
-      "projectName": "ejercicio9",
-      "projectPath": "C:\\Users\\Jhan\\Desktop\\Ejercicios C#\\ejercicio9\\ejercicio9.csproj",
+      "projectUniqueName": "c:\\Users\\Jhan\\Desktop\\Ejercicios C#\\ejercicio9\\ejercicio8.csproj",
+      "projectName": "ejercicio8",
+      "projectPath": "c:\\Users\\Jhan\\Desktop\\Ejercicios C#\\ejercicio9\\ejercicio8.csproj",
       "packagesPath": "C:\\Users\\Jhan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jhan\\Desktop\\Ejercicios C#\\ejercicio9\\obj\\",
+      "outputPath": "c:\\Users\\Jhan\\Desktop\\Ejercicios C#\\ejercicio9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jhan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,78 +1,92 @@
-﻿using System; 
-
-abstract class Character
+﻿using System;
+//need for speed ejercicio
+class RemoteControlCar
 {
-    private readonly string characterType;
-    protected Character(string characterType)
+    private int velocidad, consumo;
+    private int distacia=0, bateria=100;
+
+    public RemoteControlCar(int velocidad, int consumo)
     {
-        this.characterType = characterType;
+        this.velocidad = velocidad;
+        this.consumo = consumo;
+
     }
 
-    public abstract int DamagePoints(Character target);
-
-    public virtual bool Vulnerable()
+    public bool BatteryDrained()
     {
-       return false;
+        return bateria<consumo;
     }
 
-    public override string ToString()
+    public int DistanceDriven()
     {
-       return $"character is a {characterType}";
+       return distacia;
+    }
+
+    public void Drive()
+    {
+        if (!BatteryDrained())
+        {
+            distacia += velocidad;
+            bateria -= consumo;
+        }
+    }
+
+    public static RemoteControlCar Nitro()
+    {
+        return new RemoteControlCar(50, 4);
     }
 }
 
-class Warrior : Character
+class RaceTrack
 {
-    public Warrior() : base("Warrior")
+    private int distPista;
+
+    public RaceTrack(int distPista)
     {
+        this.distPista = distPista;
     }
 
-    public override int DamagePoints(Character target)
+    public bool TryFinishTrack(RemoteControlCar car)
     {
-        return target.Vulnerable() ? 10:6;
-    }
-}
-
-class Wizard : Character
-{
-    private bool spellPrepared;
-    public Wizard() : base("Wizard")
-    {
-    }
-
-    public override int DamagePoints(Character target)
-    {
-        return spellPrepared ? 12:3;
-    }
-
-    public void PrepareSpell()
-    {
-        spellPrepared = true;
-    }
-
-    public override bool Vulnerable()
-    {
-        return !spellPrepared;
+        while (!car.BatteryDrained())
+        {
+            car.Drive();
+            if (car.DistanceDriven() >= distPista)
+            {
+                return true;
+            }
+        }
+        return car.DistanceDriven()>=distPista;
     }
 }
 class Program
 {
     static void Main()
     {
-        var warrior = new Warrior();
-        var wizard = new Wizard();
+        // --- Prueba 1: carro normal ---
+        int speed = 5;
+        int batteryDrain = 2;
+        var car = new RemoteControlCar(speed, batteryDrain);
+        car.Drive();
+        Console.WriteLine($"Distancia recorrida (1 vuelta): {car.DistanceDriven()} metros");
+        Console.WriteLine($"¿Batería agotada?: {car.BatteryDrained()}");
 
-        Console.WriteLine(warrior);                          // Character is a Warrior
-        Console.WriteLine(wizard);                           // Character is a Wizard
-        Console.WriteLine(warrior.Vulnerable());             // False
-        Console.WriteLine(wizard.Vulnerable());              // True (sin hechizo)
-        Console.WriteLine(warrior.DamagePoints(wizard));     // 10
-        Console.WriteLine(wizard.DamagePoints(warrior));     // 3
+        // --- Prueba 2: carro Nitro ---
+        var nitro = RemoteControlCar.Nitro();
+        nitro.Drive();
+        Console.WriteLine($"Distancia recorrida por el Nitro: {nitro.DistanceDriven()} metros");
 
-        wizard.PrepareSpell();
+        // --- Prueba 3: carrera en una pista ---
+        int distance = 100;
+        var raceTrack = new RaceTrack(distance);
+        var carParaCarrera = new RemoteControlCar(5, 2);
+        bool termino = raceTrack.TryFinishTrack(carParaCarrera);
+        Console.WriteLine($"¿El carro terminó la pista de {distance}m?: {termino}");
 
-        Console.WriteLine(wizard.Vulnerable());              // False
-        Console.WriteLine(warrior.DamagePoints(wizard));     // 6
-        Console.WriteLine(wizard.DamagePoints(warrior));     // 12
+        // --- Prueba 4: pista más larga, carro se queda sin batería ---
+        var pistaLarga = new RaceTrack(10000);
+        var carDebil = new RemoteControlCar(5, 2);
+        bool terminoLarga = pistaLarga.TryFinishTrack(carDebil);
+        Console.WriteLine($"¿El carro terminó la pista larga de 10000m?: {terminoLarga}");
     }
 }

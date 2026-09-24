@@ -1,92 +1,111 @@
 ﻿using System;
-//need for speed ejercicio
-class RemoteControlCar
+using System.Runtime.CompilerServices;
+
+public static class Languages
 {
-    private int velocidad, consumo;
-    private int distacia=0, bateria=100;
-
-    public RemoteControlCar(int velocidad, int consumo)
+    public static void Main()
     {
-        this.velocidad = velocidad;
-        this.consumo = consumo;
+        
+        List<string> languages = Languages.NewList();
+        Console.WriteLine("\nLista nueva");
+        Console.WriteLine(string.Join(", ", languages));
 
+       
+        languages = Languages.GetExistingLanguages();
+        Console.WriteLine("\nLenguajes existentes en la lista");
+        Console.WriteLine(string.Join(", ", languages));
+
+        
+        Languages.AddLanguage(languages, "c++");
+        Console.WriteLine("\nAgregar lenguaje(\"c++\"):");
+        Console.WriteLine(string.Join(", ", languages));
+
+        
+        int count = Languages.CountLanguages(languages);
+        Console.WriteLine("\nContar lenguajes():");
+        Console.WriteLine(count);
+
+        
+        bool hasLanguage = Languages.HasLanguage(languages, "c++");
+        Console.WriteLine("\nEsta el lenguaje?(\"c++\"):");
+        Console.WriteLine(hasLanguage);
+
+        
+        Languages.ReverseList(languages);
+        Console.WriteLine("Poner la lista al reves");
+        Console.WriteLine(string.Join(", ", languages));
+
+       
+        bool exciting = Languages.IsExciting(languages);
+        Console.WriteLine("\nEs emocionante?");
+        Console.WriteLine(exciting);
+
+        
+        Languages.RemoveLanguage(languages, "c++");
+        Console.WriteLine("\nRemover lenguaje(\"c++\"):");
+        Console.WriteLine(string.Join(", ", languages));
+
+        
+        bool unique = Languages.IsUnique(languages);
+        Console.WriteLine("\nCada lenguaje es unico?");
+        Console.WriteLine(unique);
+    }
+    public static List<string> NewList()
+    {
+        return new List<string>();
     }
 
-    public bool BatteryDrained()
+    public static List<string> GetExistingLanguages()
     {
-        return bateria<consumo;
+        return new List<string>{"c#", "Clojure", "Elm"};
     }
 
-    public int DistanceDriven()
+    public static List<string> AddLanguage(List<string> languages, string language)
     {
-       return distacia;
+        languages.Add(language);
+       return languages;
     }
 
-    public void Drive()
+    public static int CountLanguages(List<string> languages)
     {
-        if (!BatteryDrained())
+        return languages.Count;
+    }
+
+    public static bool HasLanguage(List<string> languages, string language)
+    {
+        return languages.Contains(language);
+    }
+
+    public static List<string> ReverseList(List<string> languages)
+    {
+        languages.Reverse();
+        return languages;
+    }
+
+    public static bool IsExciting(List<string> languages)
+    {
+        if (languages.Count == 0)
         {
-            distacia += velocidad;
-            bateria -= consumo;
+            return false;
         }
-    }
-
-    public static RemoteControlCar Nitro()
-    {
-        return new RemoteControlCar(50, 4);
-    }
-}
-
-class RaceTrack
-{
-    private int distPista;
-
-    public RaceTrack(int distPista)
-    {
-        this.distPista = distPista;
-    }
-
-    public bool TryFinishTrack(RemoteControlCar car)
-    {
-        while (!car.BatteryDrained())
+        if (languages[0] == "c#")
         {
-            car.Drive();
-            if (car.DistanceDriven() >= distPista)
-            {
-                return true;
-            }
+            return true;
         }
-        return car.DistanceDriven()>=distPista;
+        if (languages.Count >= 2 && languages.Count <= 3 && languages[1] == "C#") return true;
+
+        return false;
     }
-}
-class Program
-{
-    static void Main()
+
+    public static List<string> RemoveLanguage(List<string> languages, string language)
     {
-        // --- Prueba 1: carro normal ---
-        int speed = 5;
-        int batteryDrain = 2;
-        var car = new RemoteControlCar(speed, batteryDrain);
-        car.Drive();
-        Console.WriteLine($"Distancia recorrida (1 vuelta): {car.DistanceDriven()} metros");
-        Console.WriteLine($"¿Batería agotada?: {car.BatteryDrained()}");
+        languages.Remove(language);
+        return languages;
+    }
 
-        // --- Prueba 2: carro Nitro ---
-        var nitro = RemoteControlCar.Nitro();
-        nitro.Drive();
-        Console.WriteLine($"Distancia recorrida por el Nitro: {nitro.DistanceDriven()} metros");
-
-        // --- Prueba 3: carrera en una pista ---
-        int distance = 100;
-        var raceTrack = new RaceTrack(distance);
-        var carParaCarrera = new RemoteControlCar(5, 2);
-        bool termino = raceTrack.TryFinishTrack(carParaCarrera);
-        Console.WriteLine($"¿El carro terminó la pista de {distance}m?: {termino}");
-
-        // --- Prueba 4: pista más larga, carro se queda sin batería ---
-        var pistaLarga = new RaceTrack(10000);
-        var carDebil = new RemoteControlCar(5, 2);
-        bool terminoLarga = pistaLarga.TryFinishTrack(carDebil);
-        Console.WriteLine($"¿El carro terminó la pista larga de 10000m?: {terminoLarga}");
+    public static bool IsUnique(List<string> languages)
+    {
+        return new HashSet<string>(languages).Count == languages.Count;
     }
 }
+
