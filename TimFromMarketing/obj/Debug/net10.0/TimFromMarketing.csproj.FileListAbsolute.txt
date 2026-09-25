@@ -1,0 +1,15 @@
+C:\Users\Jhan\Desktop\Ejercicios C#\TimFromMarketing\obj\Debug\net10.0\TimFromMarketing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhan\Desktop\Ejercicios C#\TimFromMarketing\obj\Debug\net10.0\TimFromMarketing.AssemblyInfoInputs.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\TimFromMarketing\obj\Debug\net10.0\TimFromMarketing.AssemblyInfo.cs
+C:\Users\Jhan\Desktop\Ejercicios C#\TimFromMarketing\obj\Debug\net10.0\TimFromMarketing.csproj.CoreCompileInputs.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\TimFromMarketing\obj\Debug\net10.0\TimFromMarketing.sourcelink.json
+C:\Users\Jhan\Desktop\Ejercicios C#\TimFromMarketing\bin\Debug\net10.0\TimFromMarketing.exe
+C:\Users\Jhan\Desktop\Ejercicios C#\TimFromMarketing\bin\Debug\net10.0\TimFromMarketing.deps.json
+C:\Users\Jhan\Desktop\Ejercicios C#\TimFromMarketing\bin\Debug\net10.0\TimFromMarketing.runtimeconfig.json
+C:\Users\Jhan\Desktop\Ejercicios C#\TimFromMarketing\bin\Debug\net10.0\TimFromMarketing.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\TimFromMarketing\bin\Debug\net10.0\TimFromMarketing.pdb
+C:\Users\Jhan\Desktop\Ejercicios C#\TimFromMarketing\obj\Debug\net10.0\TimFromMarketing.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\TimFromMarketing\obj\Debug\net10.0\refint\TimFromMarketing.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\TimFromMarketing\obj\Debug\net10.0\TimFromMarketing.pdb
+C:\Users\Jhan\Desktop\Ejercicios C#\TimFromMarketing\obj\Debug\net10.0\TimFromMarketing.genruntimeconfig.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\TimFromMarketing\obj\Debug\net10.0\ref\TimFromMarketing.dll
