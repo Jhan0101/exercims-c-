@@ -1,0 +1,15 @@
+C:\Users\Jhan\Desktop\Ejercicios C#\futbolMatchReport\bin\Debug\net10.0\futbolMatchReport.exe
+C:\Users\Jhan\Desktop\Ejercicios C#\futbolMatchReport\bin\Debug\net10.0\futbolMatchReport.deps.json
+C:\Users\Jhan\Desktop\Ejercicios C#\futbolMatchReport\bin\Debug\net10.0\futbolMatchReport.runtimeconfig.json
+C:\Users\Jhan\Desktop\Ejercicios C#\futbolMatchReport\bin\Debug\net10.0\futbolMatchReport.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\futbolMatchReport\bin\Debug\net10.0\futbolMatchReport.pdb
+C:\Users\Jhan\Desktop\Ejercicios C#\futbolMatchReport\obj\Debug\net10.0\futbolMatchReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhan\Desktop\Ejercicios C#\futbolMatchReport\obj\Debug\net10.0\futbolMatchReport.AssemblyInfoInputs.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\futbolMatchReport\obj\Debug\net10.0\futbolMatchReport.AssemblyInfo.cs
+C:\Users\Jhan\Desktop\Ejercicios C#\futbolMatchReport\obj\Debug\net10.0\futbolMatchReport.csproj.CoreCompileInputs.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\futbolMatchReport\obj\Debug\net10.0\futbolMatchReport.sourcelink.json
+C:\Users\Jhan\Desktop\Ejercicios C#\futbolMatchReport\obj\Debug\net10.0\futbolMatchReport.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\futbolMatchReport\obj\Debug\net10.0\refint\futbolMatchReport.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\futbolMatchReport\obj\Debug\net10.0\futbolMatchReport.pdb
+C:\Users\Jhan\Desktop\Ejercicios C#\futbolMatchReport\obj\Debug\net10.0\futbolMatchReport.genruntimeconfig.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\futbolMatchReport\obj\Debug\net10.0\ref\futbolMatchReport.dll
