@@ -1,0 +1,15 @@
+C:\Users\Jhan\Desktop\Ejercicios C#\CalculatorConundrum\bin\Debug\net10.0\CalculatorConundrum.exe
+C:\Users\Jhan\Desktop\Ejercicios C#\CalculatorConundrum\bin\Debug\net10.0\CalculatorConundrum.deps.json
+C:\Users\Jhan\Desktop\Ejercicios C#\CalculatorConundrum\bin\Debug\net10.0\CalculatorConundrum.runtimeconfig.json
+C:\Users\Jhan\Desktop\Ejercicios C#\CalculatorConundrum\bin\Debug\net10.0\CalculatorConundrum.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\CalculatorConundrum\bin\Debug\net10.0\CalculatorConundrum.pdb
+C:\Users\Jhan\Desktop\Ejercicios C#\CalculatorConundrum\obj\Debug\net10.0\CalculatorConundrum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhan\Desktop\Ejercicios C#\CalculatorConundrum\obj\Debug\net10.0\CalculatorConundrum.AssemblyInfoInputs.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\CalculatorConundrum\obj\Debug\net10.0\CalculatorConundrum.AssemblyInfo.cs
+C:\Users\Jhan\Desktop\Ejercicios C#\CalculatorConundrum\obj\Debug\net10.0\CalculatorConundrum.csproj.CoreCompileInputs.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\CalculatorConundrum\obj\Debug\net10.0\CalculatorConundrum.sourcelink.json
+C:\Users\Jhan\Desktop\Ejercicios C#\CalculatorConundrum\obj\Debug\net10.0\CalculatorConundrum.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\CalculatorConundrum\obj\Debug\net10.0\refint\CalculatorConundrum.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\CalculatorConundrum\obj\Debug\net10.0\CalculatorConundrum.pdb
+C:\Users\Jhan\Desktop\Ejercicios C#\CalculatorConundrum\obj\Debug\net10.0\CalculatorConundrum.genruntimeconfig.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\CalculatorConundrum\obj\Debug\net10.0\ref\CalculatorConundrum.dll

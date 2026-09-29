@@ -55,3 +55,23 @@ public static class SimpleOperation
         return operand1 + operand2;
     }
 }
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine(SimpleCalculator.Calculate(16, 51, "+"));   // 16 + 51 = 67
+        Console.WriteLine(SimpleCalculator.Calculate(32, 6, "*"));    // 32 * 6 = 192
+        Console.WriteLine(SimpleCalculator.Calculate(512, 4, "/"));   // 512 / 4 = 128
+        Console.WriteLine(SimpleCalculator.Calculate(512, 0, "/"));   // Division by zero is not allowed.
+
+        try
+        {
+            SimpleCalculator.Calculate(100, 10, "-");
+        }
+        catch (ArgumentOutOfRangeException e)
+        {
+            Console.WriteLine($"Error esperado: {e.Message}");
+        }
+    }
+}
