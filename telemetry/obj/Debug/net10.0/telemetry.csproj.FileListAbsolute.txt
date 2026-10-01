@@ -1,0 +1,15 @@
+C:\Users\Jhan\Desktop\Ejercicios C#\telemetry\bin\Debug\net10.0\telemetry.exe
+C:\Users\Jhan\Desktop\Ejercicios C#\telemetry\bin\Debug\net10.0\telemetry.deps.json
+C:\Users\Jhan\Desktop\Ejercicios C#\telemetry\bin\Debug\net10.0\telemetry.runtimeconfig.json
+C:\Users\Jhan\Desktop\Ejercicios C#\telemetry\bin\Debug\net10.0\telemetry.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\telemetry\bin\Debug\net10.0\telemetry.pdb
+C:\Users\Jhan\Desktop\Ejercicios C#\telemetry\obj\Debug\net10.0\telemetry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhan\Desktop\Ejercicios C#\telemetry\obj\Debug\net10.0\telemetry.AssemblyInfoInputs.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\telemetry\obj\Debug\net10.0\telemetry.AssemblyInfo.cs
+C:\Users\Jhan\Desktop\Ejercicios C#\telemetry\obj\Debug\net10.0\telemetry.csproj.CoreCompileInputs.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\telemetry\obj\Debug\net10.0\telemetry.sourcelink.json
+C:\Users\Jhan\Desktop\Ejercicios C#\telemetry\obj\Debug\net10.0\telemetry.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\telemetry\obj\Debug\net10.0\refint\telemetry.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\telemetry\obj\Debug\net10.0\telemetry.pdb
+C:\Users\Jhan\Desktop\Ejercicios C#\telemetry\obj\Debug\net10.0\telemetry.genruntimeconfig.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\telemetry\obj\Debug\net10.0\ref\telemetry.dll
