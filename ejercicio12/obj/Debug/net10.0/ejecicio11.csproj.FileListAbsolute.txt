@@ -1,0 +1,15 @@
+C:\Users\Jhan\Desktop\Ejercicios C#\ejercicio12\bin\Debug\net10.0\ejecicio11.exe
+C:\Users\Jhan\Desktop\Ejercicios C#\ejercicio12\bin\Debug\net10.0\ejecicio11.deps.json
+C:\Users\Jhan\Desktop\Ejercicios C#\ejercicio12\bin\Debug\net10.0\ejecicio11.runtimeconfig.json
+C:\Users\Jhan\Desktop\Ejercicios C#\ejercicio12\bin\Debug\net10.0\ejecicio11.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\ejercicio12\bin\Debug\net10.0\ejecicio11.pdb
+C:\Users\Jhan\Desktop\Ejercicios C#\ejercicio12\obj\Debug\net10.0\ejecicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhan\Desktop\Ejercicios C#\ejercicio12\obj\Debug\net10.0\ejecicio11.AssemblyInfoInputs.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\ejercicio12\obj\Debug\net10.0\ejecicio11.AssemblyInfo.cs
+C:\Users\Jhan\Desktop\Ejercicios C#\ejercicio12\obj\Debug\net10.0\ejecicio11.csproj.CoreCompileInputs.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\ejercicio12\obj\Debug\net10.0\ejecicio11.sourcelink.json
+C:\Users\Jhan\Desktop\Ejercicios C#\ejercicio12\obj\Debug\net10.0\ejecicio11.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\ejercicio12\obj\Debug\net10.0\refint\ejecicio11.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\ejercicio12\obj\Debug\net10.0\ejecicio11.pdb
+C:\Users\Jhan\Desktop\Ejercicios C#\ejercicio12\obj\Debug\net10.0\ejecicio11.genruntimeconfig.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\ejercicio12\obj\Debug\net10.0\ref\ejecicio11.dll
