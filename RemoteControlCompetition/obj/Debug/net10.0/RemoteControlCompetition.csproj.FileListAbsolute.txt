@@ -1,0 +1,15 @@
+C:\Users\Jhan\Desktop\Ejercicios C#\RemoteControlCompetition\bin\Debug\net10.0\RemoteControlCompetition.exe
+C:\Users\Jhan\Desktop\Ejercicios C#\RemoteControlCompetition\bin\Debug\net10.0\RemoteControlCompetition.deps.json
+C:\Users\Jhan\Desktop\Ejercicios C#\RemoteControlCompetition\bin\Debug\net10.0\RemoteControlCompetition.runtimeconfig.json
+C:\Users\Jhan\Desktop\Ejercicios C#\RemoteControlCompetition\bin\Debug\net10.0\RemoteControlCompetition.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\RemoteControlCompetition\bin\Debug\net10.0\RemoteControlCompetition.pdb
+C:\Users\Jhan\Desktop\Ejercicios C#\RemoteControlCompetition\obj\Debug\net10.0\RemoteControlCompetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhan\Desktop\Ejercicios C#\RemoteControlCompetition\obj\Debug\net10.0\RemoteControlCompetition.AssemblyInfoInputs.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\RemoteControlCompetition\obj\Debug\net10.0\RemoteControlCompetition.AssemblyInfo.cs
+C:\Users\Jhan\Desktop\Ejercicios C#\RemoteControlCompetition\obj\Debug\net10.0\RemoteControlCompetition.csproj.CoreCompileInputs.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\RemoteControlCompetition\obj\Debug\net10.0\RemoteControlCompetition.sourcelink.json
+C:\Users\Jhan\Desktop\Ejercicios C#\RemoteControlCompetition\obj\Debug\net10.0\RemoteControlCompetition.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\RemoteControlCompetition\obj\Debug\net10.0\refint\RemoteControlCompetition.dll
+C:\Users\Jhan\Desktop\Ejercicios C#\RemoteControlCompetition\obj\Debug\net10.0\RemoteControlCompetition.pdb
+C:\Users\Jhan\Desktop\Ejercicios C#\RemoteControlCompetition\obj\Debug\net10.0\RemoteControlCompetition.genruntimeconfig.cache
+C:\Users\Jhan\Desktop\Ejercicios C#\RemoteControlCompetition\obj\Debug\net10.0\ref\RemoteControlCompetition.dll
